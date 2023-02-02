@@ -7,4 +7,7 @@ print("I AM SHUBHAM")
 print("sk")
 
 print("Abhishek Phadtare")
-print('Hello ooooo')
+print("Abhishek Phadtare")
+
+
+print("Lavkar urka")
