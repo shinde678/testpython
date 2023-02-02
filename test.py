@@ -4,7 +4,6 @@ if True:
     print("ok")
 
 print("I AM SHUBHAM")
+print("sk")
 
-
-    abhishek phadtare
-    print("ok")
+print("Abhishek Phadtare")
